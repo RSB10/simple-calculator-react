@@ -1,0 +1,40 @@
+button {
+    background-color: #457b9d;
+    color: #f1faee;
+    font-weight: bold;
+    width: 4rem;
+    height: 4rem;
+    font-size: 2em;
+    border: none;
+    border-radius: 3rem;
+    margin: 0.3rem;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: #a8dadc;
+    border-radius: 1em;
+    padding: 2em;
+}
+
+.operatorsRight {
+    color: #f1faee;
+    background-color: #e63946;
+}
+
+.operatorsTop {
+    color: #a8dadc;
+    background-color: #1d3557;
+}
+
+.result {
+    color: #1d3557;
+    font-size: 3em;
+    display: flex;
+    justify-content: flex-end;
+    margin: 1em;
+
+}
